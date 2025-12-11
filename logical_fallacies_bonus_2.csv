@@ -1,0 +1,64 @@
+Front,Back,Tags,Type
+"What is the 'Appeal to Authority' fallacy and when is an authority appropriate?","Using an authority's opinion as conclusive when they're not a relevant expert or when consensus is absent. Appropriate when the authority is a qualified expert in the field and claims are supported by evidence.",logical-fallacies bonus,Basic
+"Appeal to Authority — Use authorities when they're {{c1::qualified}} in the relevant field and their claims are {{c1::evidence‑based}}.",logical-fallacies bonus,Cloze
+"How do you rebut a 'Bandwagon' claim in one sentence?","Request objective evidence and population‑representative data rather than relying on popularity.",logical-fallacies bonus,Basic
+"Bandwagon — Ask for {{c1::objective evidence}} rather than majority assent.",logical-fallacies bonus,Cloze
+"Give a 2‑step method to test a 'Slippery Slope' prediction.","(1) Evaluate empirical evidence for each step in the chain; (2) assess probability and mechanisms linking steps.",logical-fallacies bonus,Basic
+"Slippery Slope — Test by checking the {{c1::evidence}} for intermediate steps and their {{c1::probabilities}}.",logical-fallacies bonus,Cloze
+"Name two quick questions to spot 'False Cause' in news reporting.","(1) Could a confounder explain both? (2) Is there temporal and dose‑response evidence?",logical-fallacies bonus,Basic
+"False Cause — Ask: confounder? {{c1::temporal order}} and {{c1::dose‑response}} present?",logical-fallacies bonus,Cloze
+"How to convert an anecdote into useful evidence?","Collect systematic, representative data or run controlled comparisons to see if the anecdote generalizes.",logical-fallacies bonus,Basic
+"Anecdote → Evidence: move from {{c1::single case}} to {{c1::representative data}} or controlled tests.",logical-fallacies bonus,Cloze
+"What's a one‑line defense against 'Genetic Fallacy'?","Evaluate claims on their present merits and evidence, not solely on origin.",logical-fallacies bonus,Basic
+"Genetic Fallacy — Counter by assessing the claim's {{c1::current merits}} and {{c1::evidence}}.",logical-fallacies bonus,Cloze
+"Provide a short framing to avoid 'False Dichotomy' in debate.","Present the spectrum of options and the tradeoffs for each, then propose criteria to choose among them.",logical-fallacies bonus,Basic
+"False Dichotomy — Reframe by mapping the {{c1::option space}} and evaluating {{c1::tradeoffs}}.",logical-fallacies bonus,Cloze
+"Give a simple test for 'Equivocation' in a premise chain.","Check each key term for consistent definition across premises and the conclusion.",logical-fallacies bonus,Basic
+"Equivocation test — Ensure {{c1::term consistency}} across all premises and conclusion.",logical-fallacies bonus,Cloze
+"How to handle 'Appeal to Emotion' in a policy discussion?","Acknowledge emotions briefly, then demand empirical evidence and cost‑benefit analysis to guide decisions.",logical-fallacies bonus,Basic
+"Appeal to Emotion — Strategy: acknowledge feelings, then request {{c1::evidence}} and {{c1::analysis}}.",logical-fallacies bonus,Cloze
+"What's a compact rebuttal to 'You're just being emotional' when evidence is weak?","Point out specific evidentiary gaps and offer concrete data or tests to resolve the issue.",logical-fallacies bonus,Basic
+"Emotional dismissal rebuttal — Focus on {{c1::specific evidence gaps}} and propose tests.",logical-fallacies bonus,Cloze
+"List two indicators that a question is 'Loaded' during an interview.","(1) It presupposes a contested fact; (2) it forces a binary that penalizes certain answers.",logical-fallacies bonus,Basic
+"Loaded Question indicators — Presupposition of contested fact and {{c1::forced binary}}.",logical-fallacies bonus,Cloze
+"What's a concise way to test for 'Moral Equivalence' in rhetoric?","Compare harms, intent, scale, and context rather than treating actions as morally identical.",logical-fallacies bonus,Basic
+"Moral Equivalence test — Assess {{c1::harm}}, {{c1::intent}}, {{c1::scale}}, and {{c1::context}}.",logical-fallacies bonus,Cloze
+"Explain in one line why 'Appeal to Novelty' is weak and what to ask instead.","Newness doesn't imply effectiveness—ask for comparative outcomes and evidence over time.",logical-fallacies bonus,Basic
+"Appeal to Novelty — Ask for {{c1::comparative outcomes}} and {{c1::long‑term evidence}}.",logical-fallacies bonus,Cloze
+"Give a 3‑point rapid checklist to evaluate causal claims in a conversation.","(1) Temporal ordering verified; (2) plausible mechanism present; (3) confounders considered or controlled.",logical-fallacies bonus,Basic
+"Causal checklist — temporal order, {{c1::mechanism}}, {{c1::confounders}}.",logical-fallacies bonus,Cloze
+Front,Back,Tags,Type
+"Explain 'Slippery Slope' and propose a mitigation strategy.","Arguing small steps lead to extreme consequences; mitigation: evaluate each step on merits, not assumed chain.",logical-fallacies bonus,Basic
+"Slippery Slope — Evaluate each step on its {{c1::merits}} and {{c1::evidence}}.",logical-fallacies bonus,Cloze
+"Describe 'Hasty Generalization' and suggest a corrective.","Drawing broad conclusions from small samples; corrective: increase sample size, randomize, and control for confounders.",logical-fallacies bonus,Basic
+"Hasty Generalization — Increase {{c1::sample size}} and {{c1::control for confounders}}.",logical-fallacies bonus,Cloze
+"What is 'Begging the Question' and how to fix it?","Assuming the truth of what you're trying to prove; fix: provide independent evidence or premises.",logical-fallacies bonus,Basic
+"Begging the Question — Provide {{c1::independent evidence}} or {{c1::alternative premises}}.",logical-fallacies bonus,Cloze
+"Explain 'Ad Hominem' and suggest a response.","Attacking the person, not the argument; response: ignore personal attacks, focus on argument's merits.",logical-fallacies bonus,Basic
+"Ad Hominem — Ignore {{c1::personal attacks}} and focus on {{c1::argument's merits}}.",logical-fallacies bonus,Cloze
+"Describe 'Straw Man' and propose a corrective.","Misrepresenting an opponent's position; corrective: accurately represent and address the actual position.",logical-fallacies bonus,Basic
+"Straw Man — Accurately represent and address the {{c1::actual position}}.",logical-fallacies bonus,Cloze
+"What is 'Appeal to Authority' and how to evaluate it?","Using an authority's opinion as proof; evaluate: expert relevance, consensus, and evidence.",logical-fallacies bonus,Basic
+"Appeal to Authority — Evaluate: {{c1::expert relevance}}, {{c1::consensus}}, and {{c1::evidence}}.",logical-fallacies bonus,Cloze
+"Explain 'False Dichotomy' and suggest a corrective.","Presenting only two options when more exist; corrective: list all viable options and evaluate.",logical-fallacies bonus,Basic
+"False Dichotomy — List all {{c1::viable options}} and {{c1::evaluate}}.",logical-fallacies bonus,Cloze
+"Describe 'Red Herring' and propose a response.","Introducing an irrelevant topic; response: acknowledge and refocus on the original topic.",logical-fallacies bonus,Basic
+"Red Herring — Acknowledge and {{c1::refocus}} on the {{c1::original topic}}.",logical-fallacies bonus,Cloze
+"What is 'Bandwagon' and how to evaluate it?","Claiming something is true because many believe it; evaluate: evidence, not popularity.",logical-fallacies bonus,Basic
+"Bandwagon — Evaluate: {{c1::evidence}}, not {{c1::popularity}}.",logical-fallacies bonus,Cloze
+
+Front,Back,Tags,Type
+"Scenario: A politician argues, 'My opponent's tax plan is bad because they once cheated on their spouse.' Identify and explain the fallacy.","Fallacy: Ad Hominem. The argument attacks personal character instead of addressing the actual tax policy merits. Proper approach: analyze the tax plan's economic impact, projected outcomes, and potential consequences.",logical-fallacies advanced,Basic
+"Analyze the logical error: 'Everyone in my social circle believes X, so X must be true.'","Fallacy: Bandwagon / Echo Chamber Effect. This commits two errors: (1) Assuming popularity equals truth, (2) Relying on a non-representative sample. Correct approach: seek diverse, independent sources and empirical evidence.",logical-fallacies advanced,Basic
+"Deconstruct this argument: 'We can't trust climate science because some scientists disagree.'","Fallacy: Cherry-Picking / Appeal to Uncertainty. Scientific consensus requires evaluating overall evidence, not isolated disagreements. Proper analysis: review meta-analyses, peer-reviewed research, and majority expert opinion.",logical-fallacies advanced,Basic
+"Explain the logical flaw: 'My grandfather lived to 100 eating bacon daily, so bacon is healthy.'","Fallacy: Anecdotal Evidence / Survivorship Bias. One individual's experience doesn't prove general health outcomes. Correct approach: consult longitudinal studies, controlled research, and population-level health data.",logical-fallacies advanced,Basic
+"Identify the problem in this reasoning: 'If we allow same-sex marriage, next people will marry animals.'","Fallacy: Slippery Slope with False Equivalence. Argument creates an unsupported, extreme chain of hypothetical consequences. Correct approach: analyze actual proposed policy and its specific, evidence-based implications.",logical-fallacies advanced,Basic
+"Analyze the logical structure: 'This supplement cured my friend's illness, so it works for everyone.'","Fallacy: Hasty Generalization / Anecdotal Evidence. One personal experience cannot prove universal efficacy. Proper evaluation requires randomized controlled trials, statistical significance, and peer-reviewed research.",logical-fallacies advanced,Basic
+"Deconstruct this argument: 'Ancient civilizations did X, so X must be wise and correct.'","Fallacy: Appeal to Tradition / Genetic Fallacy. Historical practice doesn't guarantee current relevance or effectiveness. Correct approach: evaluate practices based on current evidence, ethical standards, and measurable outcomes.",logical-fallacies advanced,Basic
+"Explain the logical error: 'Scientists can't explain everything about evolution, so creationism must be true.'","Fallacy: Argument from Ignorance / False Dichotomy. Gaps in scientific understanding don't automatically validate alternative explanations. Proper approach: continue scientific investigation, seek evidence, maintain intellectual humility.",logical-fallacies advanced,Basic
+"Identify the problem in this reasoning: 'This new diet is popular on social media, so it must be effective.'","Fallacy: Bandwagon / Appeal to Popularity / Appeal to Novelty. Social media popularity doesn't equate to scientific validity. Correct approach: examine peer-reviewed research, consult nutrition experts, analyze controlled studies.",logical-fallacies advanced,Basic
+"Analyze the logical structure: 'My cousin became successful without college, so higher education is unnecessary.'","Fallacy: Anecdotal Evidence / Survivorship Bias. One individual's path cannot generalize to population-level outcomes. Proper evaluation requires statistical analysis of educational and economic data.",logical-fallacies advanced,Basic
+"Deconstruct this argument: 'If we legalize marijuana, society will collapse into chaos.'","Fallacy: Slippery Slope with Catastrophizing. Unsupported chain of hypothetical negative consequences. Correct approach: examine evidence from jurisdictions with legalization, analyze actual social and economic impacts.",logical-fallacies advanced,Basic
+"Explain the logical flaw: 'This technology is new, so it must be better than older methods.'","Fallacy: Appeal to Novelty. Newness doesn't guarantee superiority. Proper evaluation requires comparative analysis, performance metrics, and long-term reliability studies.",logical-fallacies advanced,Basic
+"Identify the problem in this reasoning: 'My religion
+

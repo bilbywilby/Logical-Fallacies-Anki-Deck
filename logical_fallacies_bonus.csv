@@ -1,0 +1,21 @@
+Front,Back,Tags,Type
+"What is the 'No True Scotsman' fallacy? Give a short counterstrategy.","Ad hoc exclusion of counterexamples by redefining the group. Counterstrategy: call out the moved criteria and demand explicit, non‑ad hoc definitions.",logical-fallacies bonus,Basic
+"No True Scotsman — The arguer shifts the definition of the {{c1::group}} to exclude {{c1::counterexamples}}. What is the best immediate rebuttal?",Point out the ad‑hoc redefinition and provide documented counterexamples.,logical-fallacies bonus,Cloze
+"Explain and correct: 'We shouldn't change the law; it's always been that way.'","Fallacy: Appeal to Tradition. Correct by requiring evidence of ongoing benefits and comparing with modern alternatives.",logical-fallacies bonus,Basic
+"Appeal to Tradition — Why is longevity not evidence of correctness?","Because past survival doesn't control for changing contexts, alternatives, or past errors; use current data to justify continuation.,logical-fallacies bonus,Cloze
+"Give an example of Argument from Silence and a check to avoid it.","Example: 'The report doesn't mention corruption, so none occurred.' Check: seek direct evidence, alternative sources, and ask why omission might exist.",logical-fallacies bonus,Basic
+"Argument from Silence — The {{c1::absence}} of mention is not {{c1::positive evidence}}; what should you look for instead?",Look for positive, corroborating evidence and independent sources.,logical-fallacies bonus,Cloze
+"Define 'False Analogy' and list one question to test analogies.","False Analogy: comparing things lacking relevant similarities. Test question: 'Are the compared features causally relevant to the conclusion?' ",logical-fallacies bonus,Basic
+"False Analogy — Ask: are the {{c1::similarities}} cited {{c1::relevant}} to the claim being made?",If not, the analogy fails.,logical-fallacies bonus,Cloze
+"What quick diagnostic separates correlation from causation?","Look for temporal precedence, dose‑response, mechanism, and control for confounders (experimental or statistical).",logical-fallacies bonus,Basic
+"Correlation ≠ causation — Name two pieces of evidence that support causation.",Randomized experiments and plausible mechanism with replication.,logical-fallacies bonus,Cloze
+"Explain 'Equivocation' and give a 2‑word tip to avoid it.","Using one word in multiple senses; tip: define terms.",logical-fallacies bonus,Basic
+"Equivocation — {{c1::Define terms}} before arguing to prevent shifting meanings.",Use precise definitions.,logical-fallacies bonus,Cloze
+"What is 'Loaded Question' and how to defuse it in one sentence?","A question that presupposes contentious facts; defuse by rejecting the presupposition and answering neutrally or rephrasing.",logical-fallacies bonus,Basic
+"Loaded Question — Respond by {{c1::rejecting the presupposition}} or {{c1::rephrasing}} the question.",Provide neutral clarification.,logical-fallacies bonus,Cloze
+"Describe 'Composition' fallacy with a 1‑line counterexample.","Assuming parts' traits hold for whole — e.g., each brick is lightweight but the wall is heavy.",logical-fallacies bonus,Basic
+"Composition — Example: many {{c1::small parts}} can make a {{c1::heavy whole}}; assess emergent properties.",logical-fallacies bonus,Cloze
+"What is 'Division' fallacy and a short corrective step?","Assuming whole's property applies to parts; corrective: analyze at the appropriate level of aggregation.",logical-fallacies bonus,Basic
+"Division — Check whether the property is {{c1::aggregative}} or {{c1::individual}} before inferring transfer.",logical-fallacies bonus,Cloze
+"List three red flags that suggest an emotional appeal rather than evidence.","(1) Excessive vivid imagery; (2) calls to pity/fear without data; (3) loaded labels or slurs.",logical-fallacies bonus,Basic
+"Emotional appeals — Red flags: vivid imagery, {{c1::pity/fear}} tactics, and {{c1::loaded labeling}}.",logical-fallacies bonus,Cloze
